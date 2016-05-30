@@ -1,0 +1,2 @@
+# jqCache
+jQuery query cache
